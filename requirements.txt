@@ -1,0 +1,17 @@
+# Core Data Handling & Numerical Operations
+pandas==2.2.3
+numpy==1.26.4
+
+# Machine Learning Model & Utilities
+xgboost==2.0.3
+scikit-learn==1.7.2
+
+# Handling Imbalanced Datasets
+imbalanced-learn==0.14.0
+
+# Data Visualization (for EDA notebooks)
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Optional: For saving/loading the trained model
+joblib==1.5.1
